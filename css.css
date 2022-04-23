@@ -1,0 +1,61 @@
+table, h1{
+    width: 100%;
+    align-self: center;
+}
+
+table, th, td{
+    border: 1px solid;
+}
+
+td{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.bg{  
+    background-image: url('https://www.ynotpics.com/wp-content/uploads/2017/06/Beach-view-.jpg');
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-size: auto;
+    height: 10%;
+}
+
+#senin{
+    background-color: red;
+}
+
+#selasa{
+    background-color: blue;
+}
+
+#rabu{
+    background-color: yellowgreen;
+}
+
+#kamis{
+    background-color: purple;
+}
+
+#jumat{
+    background-color: green;
+}
+
+#matakuliah{
+    
+}
+
+#hari{
+    
+}
+
+#jam{
+    
+}
+
+#dosenPenanggungJawab{
+    
+}
+
+#dosenAnggota{
+    
+}
